@@ -1,5 +1,5 @@
 #include <stdio.h>
 
-int rectangle(int a, int b){
-	return a * b;
+int rectangle(int l, int b){
+	return l * b;
 }
